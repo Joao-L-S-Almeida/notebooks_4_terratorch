@@ -1,8 +1,8 @@
 ## SBSR
 A set of notebooks to be used for the SBSR conference. 
 Order for reading:
-1. modelling
-2. datamodule
+1. datamodule
+2. modelling
 3. inference
 4. segmentation
 5. regression
