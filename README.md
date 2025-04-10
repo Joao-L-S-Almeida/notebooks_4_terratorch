@@ -1,6 +1,6 @@
-## SBSR
-A set of notebooks to be used for the SBSR conference. 
-Order for reading:
+## Notebooks for TerraTorch
+A set notebooks and lectures used as introduction for the [TerraTorch toolkit](https://github.com/IBM/terratorch). 
+Order of reading. 
 1. datamodule
 2. modelling
 3. inference
