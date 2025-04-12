@@ -6,5 +6,6 @@ Order of reading.
 3. inference
 4. segmentation
 5. regression
-6. multi_classification/
+6. multi_classification
+7. cli
 
