@@ -9,3 +9,6 @@ Order of reading.
 6. multi_classification
 7. cli
 
+## Obtaining the dataset HLS Burn Scars
+https://huggingface.co/datasets/ibm-nasa-geospatial/hls_burn_scars
+
